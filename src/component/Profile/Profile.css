@@ -1,0 +1,22 @@
+.character-meta-container,
+.films-container,
+.profile-picture-container,
+.star-ship-container {
+  margin-bottom: 20px;
+  border-radius: 50px;
+  border: 5px solid yellow;
+}
+
+div.profile-container {
+  margin-top: 20px;
+}
+
+h1,
+h2,
+h3,
+p {
+  font-family: "Roboto", sans-serif;
+}
+h1 {
+  font-size: 500;
+}
